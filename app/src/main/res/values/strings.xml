@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">حسابیار</string>
+    <string name="app_subtitle">مدیریت مالی هوشمند</string>
+    <string name="nav_dashboard">خانه</string>
+    <string name="nav_transactions">تراکنش‌ها</string>
+    <string name="nav_reports">گزارش‌ها</string>
+    <string name="nav_commitments">تعهدات</string>
+    <string name="nav_more">بیشتر</string>
+</resources>

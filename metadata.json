@@ -1,0 +1,6 @@
+{
+  "name": "Hesabyar",
+  "description": "اپلیکیشن مدیریت مالی هوشمند و تحلیل پیامک‌های بانکی حسابیار",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
